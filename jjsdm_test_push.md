@@ -1,1 +1,0 @@
-jjsdm_test_push.md
